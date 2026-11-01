@@ -1,10 +1,10 @@
 # 🚀 Strata on Kaggle — by DevZoneX
 
-[![Tests](https://github.com/iAmAjayTeli/devzonex-strata-kaggle/actions/workflows/tests.yml/badge.svg)](https://github.com/iAmAjayTeli/devzonex-strata-kaggle/actions/workflows/tests.yml)
+[![Tests](https://github.com/ajay1kumar1/strata-kaggle/actions/workflows/tests.yml/badge.svg)](https://github.com/ajay1kumar1/strata-kaggle/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Platform](https://img.shields.io/badge/platform-Kaggle%20GPU-20BEFF)
 ![Status](https://img.shields.io/badge/status-experimental-orange)
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/iAmAjayTeli/devzonex-strata-kaggle/blob/main/notebooks/Strata_Kaggle_Launcher.ipynb)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/ajay1kumar1/strata-kaggle/blob/main/notebooks/Strata_Kaggle_Launcher.ipynb)
 
 **Run a Strata-supported model on a Kaggle GPU, cache the model and Strata runtime in your own private Kaggle Datasets, and connect OpenCode Desktop through a temporary authenticated HTTPS tunnel.**
 
@@ -64,12 +64,12 @@ The benefit is **persistence and reuse**: future sessions can restore from your 
 
 ## 🧭 Quick links
 
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/iAmAjayTeli/devzonex-strata-kaggle/blob/main/notebooks/Strata_Kaggle_Launcher.ipynb)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/ajay1kumar1/strata-kaggle/blob/main/notebooks/Strata_Kaggle_Launcher.ipynb)
 
 If the badge does not open the notebook import flow, go to [Kaggle Notebooks](https://www.kaggle.com/notebooks/welcome), choose **Load from URL**, and paste:
 
 ```text
-https://github.com/iAmAjayTeli/devzonex-strata-kaggle/blob/main/notebooks/Strata_Kaggle_Launcher.ipynb
+https://github.com/ajay1kumar1/strata-kaggle/blob/main/notebooks/Strata_Kaggle_Launcher.ipynb
 ```
 
 Opening the notebook imports its code; it does **not** grant access to anyone else's private datasets or secrets.
